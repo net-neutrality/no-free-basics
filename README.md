@@ -2,21 +2,21 @@
 Who has voiced against Free Basics in India : 
 
  1. Legends
-     - Tim Berners-Lee [Article](http://www.theguardian.com/technology/2015/may/29/tim-berners-lee-urges-britain-to-fight-snoopers-charter)
+     - Tim Berners-Lee (Inventor of the World Wide Web) - [Article](http://www.theguardian.com/technology/2015/may/29/tim-berners-lee-urges-britain-to-fight-snoopers-charter)
 
  
  2. Academia
-     - [Joint Statement](https://docs.google.com/document/d/1iQ1F7-S4NCGqp1FyKiDcK2J1eV4VNqM2B1qC3O4OlfA/edit?pref=2&pli=1) from professors of top tech institutes in India (IIT, IISc, TIFR, BITS, ISI)
+     - Professors of top tech institutes in India (IIT, IISc, TIFR, BITS, ISI, +) - [Joint Statement](https://docs.google.com/document/d/1iQ1F7-S4NCGqp1FyKiDcK2J1eV4VNqM2B1qC3O4OlfA/edit?pref=2&pli=1) from 
 
 
  3. Startups / Entrepreneurs 
      - Nikhil Pahwa (campaigning via [SaveTheInternet.In](www.savetheinternet.in) & [Twitter](twitter.com/nixxin))
      - 9 Startups have [written to TRAI](http://indianexpress.com/article/technology/tech-news-technology/facebooks-free-basics-9-indian-startup-ceos-jointly-write-to-trai-chairman-against-it/) (Teesort, Metis Learning, Zomato, Mouthshut, SVG Media, TrulyMadly, FlipClass, GOQii, PayTM)
-     - Amod Malviya [Blog](https://medium.com/@amod/the-broken-analogy-toll-free-vs-zero-rating-c4a8cd383e69)
+     - Amod Malviya (ex CTO, Flipkart) - [Blog](https://medium.com/@amod/the-broken-analogy-toll-free-vs-zero-rating-c4a8cd383e69)
  
 
  4. Venture Capitalists 
-     - Mohandas Pai [Tweet](https://twitter.com/TVMohandasPai/status/682411029330919424)
+     - Mohandas Pai (ex CFO, Infosys) [Tweet](https://twitter.com/TVMohandasPai/status/682411029330919424)
      - Mahesh Murthy [Tweet](https://twitter.com/maheshmurthy/status/681962209157632000)
 
 
@@ -26,14 +26,14 @@ Who has voiced against Free Basics in India :
 
  
  6. Politians
-     - Chief Minister of Odisha, Naveen Patnaik [writes to TRAI](http://www.scribd.com/doc/262137872/Naveen-Patnaik-s-Letter-to-TRAI)
+     - Naveen Patnaik (Chief Minister of Odisha) [writes to TRAI](http://www.scribd.com/doc/262137872/Naveen-Patnaik-s-Letter-to-TRAI)
      - CPI-M [Blog](http://cpim.org/views/facebooks-fraudulent-campaign-free-basics)
 
  
  7. Entertainment
-    - AIB Video [1](https://www.youtube.com/watch?v=mfY1NKrzqi0),  [2](https://www.youtube.com/watch?v=W0w_YhZUYeA) & [3](https://www.youtube.com/watch?v=AAQWsTFF0BM)
-    - Vishal Dadlani [Tweet & Video](https://twitter.com/VishalDadlani/status/680482523147665408) 
-    - Raghu Ram [Tweet](https://twitter.com/tweetfromRaghu/status/680694706552979456) 
+    - AIB (Indian comedy group, 1.5M Youtube subscribers) - Video [1](https://www.youtube.com/watch?v=mfY1NKrzqi0),  [2](https://www.youtube.com/watch?v=W0w_YhZUYeA) & [3](https://www.youtube.com/watch?v=AAQWsTFF0BM)
+    - Vishal Dadlani (Bollywood singer, producer, composer, performer) [Tweet & Video](https://twitter.com/VishalDadlani/status/680482523147665408) 
+    - Raghu Ram (ex producer MTV India) [Tweet](https://twitter.com/tweetfromRaghu/status/680694706552979456) 
 
 
  8. Journalists
