@@ -6,11 +6,14 @@ Who has voiced against Free Basics in India :
      - [Joint Statement](https://docs.google.com/document/d/1iQ1F7-S4NCGqp1FyKiDcK2J1eV4VNqM2B1qC3O4OlfA/edit?pref=2&pli=1) from professors of top tech institutes in India (IIT, IISc, TIFR, BITS, ISI)
    
     
- 2. Startups / Entrepreneurs
+ 2. Startups / Entrepreneurs 
      - Nikhil Pahwa (campaigning via [SaveTheInternet.In](www.savetheinternet.in) & [Twitter](twitter.com/nixxin))
      - 9 Startups have [written to TRAI](http://indianexpress.com/article/technology/tech-news-technology/facebooks-free-basics-9-indian-startup-ceos-jointly-write-to-trai-chairman-against-it/) (Teesort, Metis Learning, Zomato, Mouthshut, SVG Media, TrulyMadly, FlipClass, GOQii, PayTM)
+     - Amod Malviya [Blog](https://medium.com/@amod/the-broken-analogy-toll-free-vs-zero-rating-c4a8cd383e69)
+     
+ 2. Venture Capitalist 
      - Mohandas Pai [Tweet](https://twitter.com/TVMohandasPai/status/682411029330919424)
-     - Ex CTO, Flipkart - [blog](https://medium.com/@amod/the-broken-analogy-toll-free-vs-zero-rating-c4a8cd383e69)
+     - Mahesh Murthy [Tweet](https://twitter.com/maheshmurthy/status/681962209157632000)
      
  3. Organizations
      - [FSMI](http://saynotofreebasics.fsmi.in/) (Free Software Movement of India) 
