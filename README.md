@@ -12,16 +12,20 @@ Who has voiced against Free Basics in India :
      - Mohandas Pai [Tweet](https://twitter.com/TVMohandasPai/status/682411029330919424)
      - Ex CTO, Flipkart - [blog](https://medium.com/@amod/the-broken-analogy-toll-free-vs-zero-rating-c4a8cd383e69)
      
- 3. Politians
+ 3. Organizations
+     - [FSMI](http://saynotofreebasics.fsmi.in/) (Free Software Movement of India) 
+     - [IAMAI](http://tech.firstpost.com/news-analysis/iamai-against-platforms-like-free-basics-says-telcos-shouldnt-have-differential-pricing-293065.html) (The Internet and Mobile Association of India) 
+ 
+ 4. Politians
      - Chief Minister of Odisha, Naveen Patnaik [writes to TRAI](http://www.scribd.com/doc/262137872/Naveen-Patnaik-s-Letter-to-TRAI)
  
- 4. Entertainment
+ 5. Entertainment
     - Vishal Dadlani [Tweet & Video](https://twitter.com/VishalDadlani/status/680482523147665408) 
     - Raghu Ram [Tweet](https://twitter.com/tweetfromRaghu/status/680694706552979456) 
 
- 5. Journalists
+ 6. Journalists
     - Nikhil Wagle [Tweet](https://twitter.com/waglenikhil/status/681341414404403200)
 
- 6. Others:
+ 7. Others:
      - Ramesh Srivats [Tweet](https://twitter.com/rameshsrivats/status/682091113440608256) 
  
