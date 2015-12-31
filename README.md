@@ -20,6 +20,7 @@ Who has voiced against Free Basics in India :
      - Chief Minister of Odisha, Naveen Patnaik [writes to TRAI](http://www.scribd.com/doc/262137872/Naveen-Patnaik-s-Letter-to-TRAI)
  
  5. Entertainment
+    - AIB Video [1](https://www.youtube.com/watch?v=mfY1NKrzqi0),  [2](https://www.youtube.com/watch?v=W0w_YhZUYeA) & [3](https://www.youtube.com/watch?v=AAQWsTFF0BM)
     - Vishal Dadlani [Tweet & Video](https://twitter.com/VishalDadlani/status/680482523147665408) 
     - Raghu Ram [Tweet](https://twitter.com/tweetfromRaghu/status/680694706552979456) 
 
