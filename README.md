@@ -13,6 +13,10 @@ Who has voiced against Free Basics in India :
      - Nikhil Pahwa (campaigning via [SaveTheInternet.In](www.savetheinternet.in) & [Twitter](twitter.com/nixxin))
      - 9 Startups have [written to TRAI](http://indianexpress.com/article/technology/tech-news-technology/facebooks-free-basics-9-indian-startup-ceos-jointly-write-to-trai-chairman-against-it/) (Teesort, Metis Learning, Zomato, Mouthshut, SVG Media, TrulyMadly, FlipClass, GOQii, PayTM)
      - Amod Malviya (ex CTO, Flipkart) - [Blog](https://medium.com/@amod/the-broken-analogy-toll-free-vs-zero-rating-c4a8cd383e69)
+     - Truecaller - [Tweet](https://twitter.com/Truecaller/status/679894955360260096)
+     - Swiggy - [Tweet](https://twitter.com/swiggy_in/status/682129379921559552)
+     - Instamojo - [Tweet](https://twitter.com/sampad/status/679176083082633216)
+
  
 
  4. Venture Capitalists 
@@ -25,7 +29,7 @@ Who has voiced against Free Basics in India :
      - [IAMAI](http://tech.firstpost.com/news-analysis/iamai-against-platforms-like-free-basics-says-telcos-shouldnt-have-differential-pricing-293065.html) (The Internet and Mobile Association of India) 
 
  
- 6. Politians
+ 6. Politicians & Political parties
      - Naveen Patnaik (Chief Minister of Odisha) [writes to TRAI](http://www.scribd.com/doc/262137872/Naveen-Patnaik-s-Letter-to-TRAI)
      - CPI-M [Blog](http://cpim.org/views/facebooks-fraudulent-campaign-free-basics)
 
