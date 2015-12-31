@@ -29,4 +29,14 @@ Who has voiced against Free Basics in India :
 
  7. Others:
      - Ramesh Srivats [Tweet](https://twitter.com/rameshsrivats/status/682091113440608256) 
+     
+ 8. Discussions on HN:
+    - [Facebook is misleading Indians with its full-page ads about Free Basics](https://news.ycombinator.com/item?id=10791198)
+    - [Indian Regulator Temporarily Suspends Facebook’s Free Basics](https://news.ycombinator.com/item?id=10782890)
+    - [Facebook’s “Save Free Basics in India” Campaign Provokes Controversy](https://news.ycombinator.com/item?id=10776426)
+    - [Mark Zuckerberg's Free Basics argument doesn't address conflicts of interest](https://news.ycombinator.com/item?id=10816171)
+    - ["Free Basics" - Myths and Facts](https://news.ycombinator.com/item?id=10793344)
+    - [Facebook initiates blitzkrieg ad campaign for Free Basics in India](https://news.ycombinator.com/item?id=10782642)
+     
+ 
  
