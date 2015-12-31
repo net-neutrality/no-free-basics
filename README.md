@@ -1,39 +1,50 @@
 
 Who has voiced against Free Basics in India : 
 
+ 1. Legends
+     - Tim Berners-Lee [Article](http://www.theguardian.com/technology/2015/may/29/tim-berners-lee-urges-britain-to-fight-snoopers-charter)
 
- 1. Academia
+ 
+ 2. Academia
      - [Joint Statement](https://docs.google.com/document/d/1iQ1F7-S4NCGqp1FyKiDcK2J1eV4VNqM2B1qC3O4OlfA/edit?pref=2&pli=1) from professors of top tech institutes in India (IIT, IISc, TIFR, BITS, ISI)
-   
-    
- 2. Startups / Entrepreneurs 
+
+
+ 3. Startups / Entrepreneurs 
      - Nikhil Pahwa (campaigning via [SaveTheInternet.In](www.savetheinternet.in) & [Twitter](twitter.com/nixxin))
      - 9 Startups have [written to TRAI](http://indianexpress.com/article/technology/tech-news-technology/facebooks-free-basics-9-indian-startup-ceos-jointly-write-to-trai-chairman-against-it/) (Teesort, Metis Learning, Zomato, Mouthshut, SVG Media, TrulyMadly, FlipClass, GOQii, PayTM)
      - Amod Malviya [Blog](https://medium.com/@amod/the-broken-analogy-toll-free-vs-zero-rating-c4a8cd383e69)
-     
- 2. Venture Capitalist 
+ 
+
+ 4. Venture Capitalists 
      - Mohandas Pai [Tweet](https://twitter.com/TVMohandasPai/status/682411029330919424)
      - Mahesh Murthy [Tweet](https://twitter.com/maheshmurthy/status/681962209157632000)
-     
- 3. Organizations
+
+
+ 5. Organizations
      - [FSMI](http://saynotofreebasics.fsmi.in/) (Free Software Movement of India) 
      - [IAMAI](http://tech.firstpost.com/news-analysis/iamai-against-platforms-like-free-basics-says-telcos-shouldnt-have-differential-pricing-293065.html) (The Internet and Mobile Association of India) 
+
  
- 4. Politians
+ 6. Politians
      - Chief Minister of Odisha, Naveen Patnaik [writes to TRAI](http://www.scribd.com/doc/262137872/Naveen-Patnaik-s-Letter-to-TRAI)
+     - CPI-M [Blog](http://cpim.org/views/facebooks-fraudulent-campaign-free-basics)
+
  
- 5. Entertainment
+ 7. Entertainment
     - AIB Video [1](https://www.youtube.com/watch?v=mfY1NKrzqi0),  [2](https://www.youtube.com/watch?v=W0w_YhZUYeA) & [3](https://www.youtube.com/watch?v=AAQWsTFF0BM)
     - Vishal Dadlani [Tweet & Video](https://twitter.com/VishalDadlani/status/680482523147665408) 
     - Raghu Ram [Tweet](https://twitter.com/tweetfromRaghu/status/680694706552979456) 
 
- 6. Journalists
+
+ 8. Journalists
     - Nikhil Wagle [Tweet](https://twitter.com/waglenikhil/status/681341414404403200)
 
- 7. Others:
+
+ 9. Others:
      - Ramesh Srivats [Tweet](https://twitter.com/rameshsrivats/status/682091113440608256) 
-     
- 8. Discussions on HN:
+
+
+ 10. Discussions on HN:
     - [Facebook is misleading Indians with its full-page ads about Free Basics](https://news.ycombinator.com/item?id=10791198)
     - [Indian Regulator Temporarily Suspends Facebook’s Free Basics](https://news.ycombinator.com/item?id=10782890)
     - [Facebook’s “Save Free Basics in India” Campaign Provokes Controversy](https://news.ycombinator.com/item?id=10776426)
@@ -41,5 +52,4 @@ Who has voiced against Free Basics in India :
     - ["Free Basics" - Myths and Facts](https://news.ycombinator.com/item?id=10793344)
     - [Facebook initiates blitzkrieg ad campaign for Free Basics in India](https://news.ycombinator.com/item?id=10782642)
      
- 
  
