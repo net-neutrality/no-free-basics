@@ -4,10 +4,10 @@ Who has voiced against Free Basics :
  1. Legends
      - Tim Berners-Lee (Inventor of the World Wide Web) - [Article](http://www.theguardian.com/technology/2015/may/29/tim-berners-lee-urges-britain-to-fight-snoopers-charter)
  2. Academia
-     - Professors of top tech institutes in India (IIT, IISc, TIFR, BITS, ISI, +) - [Joint Statement](https://docs.google.com/document/d/1iQ1F7-S4NCGqp1FyKiDcK2J1eV4VNqM2B1qC3O4OlfA/edit?pref=2&pli=1) from 
+     - Professors of top tech institutes in India (IIT, IISc, TIFR, BITS, ISI, +) - [Joint Statement](https://docs.google.com/document/d/1iQ1F7-S4NCGqp1FyKiDcK2J1eV4VNqM2B1qC3O4OlfA/edit?pref=2&pli=1) 
  3. Startups / Entrepreneurs 
      - Nikhil Pahwa (campaigning via [SaveTheInternet.In](www.savetheinternet.in) & [Twitter](twitter.com/nixxin))
-     - Nandan Nilekani (Co-founder Infosys) - [Aricle] (http://blogs.timesofindia.indiatimes.com/toi-editorials/free-basics-is-a-walled-garden-heres-a-much-better-scheme-direct-benefit-transfer-for-internet-data-packs/)
+     - Nandan Nilekani (Co-founder Infosys) - [Article] (http://blogs.timesofindia.indiatimes.com/toi-editorials/free-basics-is-a-walled-garden-heres-a-much-better-scheme-direct-benefit-transfer-for-internet-data-packs/)
      - 9 Startups have [written to TRAI](http://indianexpress.com/article/technology/tech-news-technology/facebooks-free-basics-9-indian-startup-ceos-jointly-write-to-trai-chairman-against-it/)
          - FlipClass
          - GOQii
