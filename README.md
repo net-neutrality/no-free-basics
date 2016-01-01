@@ -7,7 +7,17 @@ Who has voiced against Free Basics :
      - Professors of top tech institutes in India (IIT, IISc, TIFR, BITS, ISI, +) - [Joint Statement](https://docs.google.com/document/d/1iQ1F7-S4NCGqp1FyKiDcK2J1eV4VNqM2B1qC3O4OlfA/edit?pref=2&pli=1) from 
  3. Startups / Entrepreneurs 
      - Nikhil Pahwa (campaigning via [SaveTheInternet.In](www.savetheinternet.in) & [Twitter](twitter.com/nixxin))
-     - 9 Startups have [written to TRAI](http://indianexpress.com/article/technology/tech-news-technology/facebooks-free-basics-9-indian-startup-ceos-jointly-write-to-trai-chairman-against-it/) (Teesort, Metis Learning, Zomato, Mouthshut, SVG Media, TrulyMadly, FlipClass, GOQii, PayTM)
+     - Nandan Nilekani (Co-founder Infosys) - [Aricle] (http://blogs.timesofindia.indiatimes.com/toi-editorials/free-basics-is-a-walled-garden-heres-a-much-better-scheme-direct-benefit-transfer-for-internet-data-packs/)
+     - 9 Startups have [written to TRAI](http://indianexpress.com/article/technology/tech-news-technology/facebooks-free-basics-9-indian-startup-ceos-jointly-write-to-trai-chairman-against-it/)
+         - FlipClass
+         - GOQii
+         - Metis Learning
+         - Mouthshut
+         - PayTM
+         - SVG Media
+         - Teesort
+         - TrulyMadly
+         - Zomato
      - Amod Malviya (ex CTO, Flipkart) - [Blog](https://medium.com/@amod/the-broken-analogy-toll-free-vs-zero-rating-c4a8cd383e69)
      - Truecaller - [Tweet](https://twitter.com/Truecaller/status/679894955360260096)
      - Swiggy - [Tweet](https://twitter.com/swiggy_in/status/682129379921559552)
