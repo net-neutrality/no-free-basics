@@ -28,6 +28,7 @@ Who has voiced against Free Basics :
  5. Organizations
      - [FSMI](http://saynotofreebasics.fsmi.in/) (Free Software Movement of India) 
      - [IAMAI](http://tech.firstpost.com/news-analysis/iamai-against-platforms-like-free-basics-says-telcos-shouldnt-have-differential-pricing-293065.html) (The Internet and Mobile Association of India) 
+     - [FSMK](https://twitter.com/fsmk_org/status/683267093815361536) (Free Software Movement Karnataka)
  6. Politicians & Political parties
      - Naveen Patnaik (Chief Minister of Odisha) [writes to TRAI](http://www.scribd.com/doc/262137872/Naveen-Patnaik-s-Letter-to-TRAI)
      - CPI-M [Blog](http://cpim.org/views/facebooks-fraudulent-campaign-free-basics)
