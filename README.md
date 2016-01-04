@@ -22,6 +22,7 @@ Who has voiced against Free Basics :
      - Truecaller - [Tweet](https://twitter.com/Truecaller/status/679894955360260096)
      - Swiggy - [Tweet](https://twitter.com/swiggy_in/status/682129379921559552)
      - Instamojo - [Tweet](https://twitter.com/sampad/status/679176083082633216)
+     - ClearTax - [Tweet](https://twitter.com/cleartax_in/status/683330422390919168)
  4. Venture Capitalists 
      - Mohandas Pai (ex CFO, Infosys) [Tweet](https://twitter.com/TVMohandasPai/status/682411029330919424)
      - Mahesh Murthy [Tweet](https://twitter.com/maheshmurthy/status/681962209157632000)
