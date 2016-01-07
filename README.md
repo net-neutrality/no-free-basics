@@ -27,6 +27,38 @@ Who has voiced against Free Basics :
      - Mohandas Pai (ex CFO, Infosys) [Tweet](https://twitter.com/TVMohandasPai/status/682411029330919424)
      - Mahesh Murthy [Tweet](https://twitter.com/maheshmurthy/status/681962209157632000)
  5. Organizations
+     - 30 groups around the world have signed this [open letter](https://www.accessnow.org/open-letter-to-mark-zuckerberg-on-net-neutrality-in-india/)
+      - Access Now – Global
+      - ACI – Participa – Honduras
+      - Asociación Colombiana de Usuarios de Internet (ACUI) – Colombia
+      - Center for Cyber Security Pakistan – Pakistan
+      - Center for Media Justice – United States
+      - Data Roads Foundation – United States
+      - Fight for the Future – United States
+      - Free Press – United States
+      - Free Software Movement of India – India
+      - Fundación Acceso – Central America
+      - Future of Music Coalition – United States
+      - International Modern Media Institute – Iceland
+      - Internet Policy Observatory Pakistan – Pakistan
+      - Intervozes – Brazil
+      - IPANDETEC – Panamá
+      - IT for Change – India
+      - Just Net Coalition – Global
+      - Media Alliance – United States
+      - Media Mobilizing Project – United States
+      - OpenMedia – Global
+      - R3D, Red en Defensa de los Derechos Digitales – Mexico
+      - Samuelson-Glushko Canadian Internet Policy & Public Interest Clinic (CIPPIC) – Canada
+      - SavetheInternet.in – India
+      - Society for Knowledge Commons – India
+      - SonTusDatos (Artículo 12, A.C.) – Mexico
+      - Software Freedom Law Center (SFLC.in) – India
+      - TEDIC – Paraguay
+      - Unwanted Witness – Uganda
+      - Usuarios Digitales – Ecuador
+      - Zimbabwe Human Rights Forum – Zimbabwe
+      - 18 Million Rising – United States
      - [FSMI](http://saynotofreebasics.fsmi.in/) (Free Software Movement of India) 
      - [IAMAI](http://tech.firstpost.com/news-analysis/iamai-against-platforms-like-free-basics-says-telcos-shouldnt-have-differential-pricing-293065.html) (The Internet and Mobile Association of India) 
      - [FSMK](https://twitter.com/fsmk_org/status/683267093815361536) (Free Software Movement Karnataka)
