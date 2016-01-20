@@ -80,3 +80,4 @@ Who has voiced against Free Basics :
     - [Mark Zuckerberg's Free Basics argument doesn't address conflicts of interest](https://news.ycombinator.com/item?id=10816171)
     - ["Free Basics" - Myths and Facts](https://news.ycombinator.com/item?id=10793344)
     - [Facebook initiates blitzkrieg ad campaign for Free Basics in India](https://news.ycombinator.com/item?id=10782642)
+    - [India's telecom regulator cracks down on Facebook for its Free Basics campaign](https://news.ycombinator.com/item?id=10931750)
